@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlightReservationTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.687">
+  <properties />
+  
+  
+            <testcase name="findFlight" time="2.729" classname="testcases.BookFlight" />
+                <testcase name="confirmFlight" time="2.012" classname="testcases.BookFlight" />
+                <testcase name="bookFlight" time="0.946" classname="testcases.BookFlight" />
+      
+</testsuite>

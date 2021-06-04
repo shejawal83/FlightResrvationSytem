@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlightReservation System Suite]">
+  <test thread-count="5" name="FlightReservationTest(failed)">
+    <classes>
+      <class name="testcases.BookFlight3">
+        <methods>
+          <include name="chooseFlight"/>
+          <include name="findFlight"/>
+          <include name="beforeClass"/>
+          <include name="purchaseFlight"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- testcases.BookFlight3 -->
+    </classes>
+  </test> <!-- FlightReservationTest(failed) -->
+</suite> <!-- Failed suite [FlightReservation System Suite] -->

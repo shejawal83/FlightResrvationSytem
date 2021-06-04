@@ -1,0 +1,10 @@
+<suite name="FlightReservation System Suite">
+<listeners>
+<listner class-name = "common.TestListner"/>
+</listeners>
+	<test name="FlightReservationTest">
+		<classes>
+			<class name="testcases.BookFlight" />
+		</classes>
+	</test>
+</suite>
